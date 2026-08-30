@@ -1,6 +1,6 @@
-# Hi 😁, I’m Andrew! 
-- I'm a Computer Science Major at BYU Idaho.
-- I enjoy playing cello, running, and anything that involves being outside.
+# Hi, I’m Andrew! 
+- BYU-I Computer Science Major
+- Likes cello, running, swimming, and designing / creating new things.
 
 ---
 
